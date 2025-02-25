@@ -41,7 +41,7 @@ Continuous Improvement: Integrate with CI/CD to enforce quality checks on every 
 Conclusion
 AI Code Reviewer is a powerful tool that enhances the software development process by providing AI-driven code analysis and feedback. By automating the code review process, it helps developers maintain high-quality, secure, and efficient codebases. Whether you're an individual developer or part of a large team, this tool ensures that your code remains clean, optimized, and error-free.
 
-Outputs which goes like :
+
 
 
 ![Image](https://github.com/user-attachments/assets/4b3ae265-cc8c-417e-af5d-118a9364470f)
